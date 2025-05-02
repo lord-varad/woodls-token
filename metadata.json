@@ -2,7 +2,7 @@
   "name": "Woodls",
   "symbol": "WOODLS",
   "description": "The official token of the Woodls project on Solana Devnet.",
-  "image": "https://<your-username>.github.io/<repo-name>/logo.png",
+  "image": "https://lord-varad.github.io/<repo-name>/logo.png",
   "extensions": {
     "website": "https://example.com"
   },
@@ -10,7 +10,7 @@
     "category": "image",
     "creators": [
       {
-        "address": "YOUR_SOLANA_WALLET_ADDRESS",
+        "address": "9Y6oHuGbhAWQhY3Q4MgfKHPvJbxdBqhQew6L3xpQvWNp",
         "share": 100
       }
     ]
