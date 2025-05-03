@@ -1,18 +1,13 @@
 {
   "name": "Woodls",
-  "symbol": "WOODLS",
-  "description": "The official token of the Woodls project on Solana Devnet.",
-  "image": "https://lord-varad.github.io/<repo-name>/logo.png",
-  "extensions": {
-    "website": "https://example.com"
-  },
-  "properties": {
-    "category": "image",
-    "creators": [
-      {
-        "address": "9Y6oHuGbhAWQhY3Q4MgfKHPvJbxdBqhQew6L3xpQvWNp",
-        "share": 100
-      }
-    ]
-  }
+  "symbol": "WDLS",
+  "uri": "https://lord-varad.github.io/woodls-token/metadata.json",
+  "seller_fee_basis_points": 0,
+  "creators": [
+    {
+      "address": "3KhxbaZ1yz8ToQM1dsrxjVKChDjyMu3euCR3iiH7nTuX",
+      "verified": true,
+      "share": 100
+    }
+  ]
 }
